@@ -1,5 +1,6 @@
 ## Maica Loui
-Is an web application where i will upload pattern idead, but it can also help you with the calculations you need to create a sewing pattern from scratch.
+Is an web application where i will upload pattern ideas, tips and trick.
+It can also be used to help you with the calculations you need to create a sewing pattern from scratch.
 This can be a skirt, dress, trouser, bodice pattern. 
 It is currently an ongoing project so it is not finished yet. 
 
