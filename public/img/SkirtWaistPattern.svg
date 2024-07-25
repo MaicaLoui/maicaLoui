@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2513" height="2513" viewBox="0 0 2513 2513">
+  <g id="SkirtWaistPattern" transform="translate(-13244 2079)">
+    <g id="SkirtWaistPattern-2" data-name="SkirtWaistPattern" transform="translate(6732 3188)">
+      <g id="Group_70" data-name="Group 70" transform="translate(6086 -5503.72)">
+        <g id="Group_1" data-name="Group 1" transform="translate(426 237)">
+          <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(0 -0.28)" fill="#c9b79c" stroke="#c9b79c" stroke-width="1">
+            <rect width="2513" height="2513" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="2512" height="2512" rx="4.5" fill="none"/>
+          </g>
+          <rect id="Rectangle_3" data-name="Rectangle 3" width="2307" height="2305" transform="translate(98 124.72)" fill="#fff"/>
+          <g id="Path_2" data-name="Path 2" transform="translate(248.707 279.796)" fill="#fff">
+            <path d="M 2043.154541015625 2032.791870117188 L 3.500081539154053 2032.791870117188 L 3.500081539154053 3.500123977661133 L 2043.154541015625 3.500123977661133 L 2043.154541015625 2032.791870117188 Z" stroke="none"/>
+            <path d="M 7 7.0001220703125 L 7 2029.291625976562 L 2039.654663085938 2029.291625976562 L 2039.654663085938 7.0001220703125 L 7 7.0001220703125 M 0 0.0001220703125 L 2046.654663085938 0.0001220703125 L 2046.654663085938 2036.291625976562 L 0 2036.291625976562 L 0 0.0001220703125 Z" stroke="none" fill="#8d8f92"/>
+          </g>
+          <path id="Path_1" data-name="Path 1" d="M0,0,.328,2038.124" transform="translate(1273.144 279.796)" fill="none" stroke="#8d8f92" stroke-width="7"/>
+          <line id="Line_2" data-name="Line 2" x2="2034.901" transform="translate(255.693 947.56)" fill="none" stroke="#8d8f92" stroke-width="7"/>
+          <text id="_7" data-name="7" transform="translate(1252 265.72)" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">7</tspan></text>
+          <text id="_1" data-name="1" transform="translate(2223 402.72)" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+          <text id="_2" data-name="2" transform="translate(2223 1045.72)" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+          <text id="_8" data-name="8" transform="translate(1202 1045.72)" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">8</tspan></text>
+          <text id="_9" data-name="9" transform="translate(1248 2394.72)" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">9</tspan></text>
+          <text id="_4" data-name="4" transform="translate(275 402.72)" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4</tspan></text>
+          <text id="_5" data-name="5" transform="translate(275 1060.72)" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">5</tspan></text>
+          <text id="_6" data-name="6" transform="translate(275 2278.72)" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">6</tspan></text>
+          <path id="Path_33" data-name="Path 33" d="M717.959,0" transform="translate(1517.817 2308.315)" fill="none" stroke="#707070" stroke-width="3"/>
+          <text id="_3_" data-name="3 " transform="translate(2223 2274.72)" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3 </tspan></text>
+          <text id="_10" data-name="10" transform="translate(1407 385.72)" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10</tspan></text>
+          <text id="_11" data-name="11" transform="translate(1372 205.72)" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">11</tspan></text>
+          <text id="_12" data-name="12" transform="translate(1000 385.72)" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">12</tspan></text>
+        </g>
+      </g>
+    </g>
+    <line id="Line_28" data-name="Line 28" x2="150" transform="translate(14512.5 -1795.5)" fill="none" stroke="red" stroke-width="7"/>
+    <line id="Line_29" data-name="Line 29" y1="59" transform="translate(14662.5 -1854.5)" fill="none" stroke="red" stroke-width="7"/>
+    <path id="Path_41" data-name="Path 41" d="M150,0,5.224,725.337" transform="translate(14512.5 -1854.5)" fill="none" stroke="#000" stroke-width="7"/>
+    <line id="Line_30" data-name="Line 30" x2="190" transform="translate(14322.5 -1795.5)" fill="none" stroke="red" stroke-width="7"/>
+    <line id="Line_31" data-name="Line 31" y1="59" transform="translate(14322.5 -1854.5)" fill="none" stroke="red" stroke-width="7"/>
+    <line id="Line_32" data-name="Line 32" x2="195" y2="725" transform="translate(14322.5 -1854.5)" fill="none" stroke="#000" stroke-width="7"/>
+    <text id="_13" data-name="13" transform="translate(14225 -1865)" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">13</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="348" height="250" viewBox="0 0 348 250">
+  <defs>
+    <clipPath id="clip-has-skirt">
+      <rect width="348" height="250"/>
+    </clipPath>
+  </defs>
+  <g id="has-skirt" clip-path="url(#clip-has-skirt)">
+    <g id="skirt-svgrepo-com" transform="translate(25.5 -23.5)">
+      <path id="Path_1" data-name="Path 1" d="M106.669,71.205H75.15L1.745,173.973a9.366,9.366,0,0,0-.756,9.635c.68,1.359,16.712,32.188,75.425,49.123Z"/>
+      <path id="Path_2" data-name="Path 2" d="M219.705,58.088v-17.8a9.369,9.369,0,0,0-9.369-9.369H86.664a9.369,9.369,0,0,0-9.369,9.369v17.8h142.41Z"/>
+      <path id="Path_3" data-name="Path 3" d="M176.986,71.205H120.013L86.739,248.848c9.5,7.2,28.674,17.234,61.761,17.234s52.263-10.037,61.761-17.234Z"/>
+      <path id="Path_4" data-name="Path 4" d="M295.255,173.973,221.85,71.205H190.332L220.587,232.73c58.713-16.936,74.744-47.764,75.425-49.123a9.371,9.371,0,0,0-.757-9.634Z"/>
+    </g>
+  </g>
+</svg>
