@@ -1,5 +1,5 @@
 ## Maica Loui
-Is an web application where i will upload pattern ideas, tips and trick.
+Is an web application where i will upload pattern ideas, tips and tricks.
 
 It can also be used to help you with the calculations you need to create a sewing pattern from scratch.
 
